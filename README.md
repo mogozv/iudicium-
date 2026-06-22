@@ -1,6 +1,6 @@
 # Iudicium – AI-Powered Symptom Triage
 
-**Live Demo:** [https://iudicium-mogo.railway.app](https://iudicium-mogo.railway.app) *(deploy after debugging)*
+**Live Demo:** [https://iudicium-production.up.railway.app/]
 
 ---
 
